@@ -1,1 +1,1 @@
-# coinmerche
+# coinmerch
